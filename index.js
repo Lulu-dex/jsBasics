@@ -12,4 +12,4 @@ let favoriteColor="purple";
 let countriesIndepence="october 1";
 
 
-let description = `hello my name is ${firstName + " " + lastName},my student track is  ${stuternTrack}, my skills are ${skills},my favorite colour${favoriteColor},my countries independence${countriesIndepence}.
+let description = `hello my name is ${firstName + " " + lastName},my student track is  ${stuternTrack}, my skills are ${skills},my favorite colour${favoriteColor},my countries independence${countriesIndepence}`
